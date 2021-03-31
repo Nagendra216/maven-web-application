@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Rajesh Software Solutions. GitHub WebHook -- test by Nagendra</h1>
+<h1 align="center">Welcome to Rajesh Technologies. GitHub WebHook -- test by Nagendra</h1>
 <h1 align="center"> Welcome to Rajesh Software Solutions.......We have a demo on  DevOps with AWS & WAS on April 10th  2021  at 7 PM IST for new batch. , This is a weekdays batch  . RSS- Very Good Training center for DevOps with AWS & WAS in RammurthyNagar and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases... Some fake guys are giving the fake reviews dont believe those guys..I am requesting everyone. Please give your reviews in FB and Google.</h1>
 <hr>
 <div style="text-align: center;">
